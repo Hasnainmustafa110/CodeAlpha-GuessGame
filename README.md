@@ -1,13 +1,13 @@
-Name = Hasnain Mustafa
-Company = CodeAlpha
+**Name** = Hasnain Mustafa
+**Company** = CodeAlpha
 𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗: CA/JA1/9530
 𝗗𝗼𝗺𝗮𝗶𝗻: C++ Programming
 𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻: 15th January 2025 to 15th February 2025
 
-Purpose
+**Purpose**
 The game is designed to let users practice logic, input handling, and randomness while enjoying a fun guessing challenge.
 
-Key Features
+**Key Features**
 Random Number Generation
 
 A number between 1 and 100 is randomly selected using the rand() function.
